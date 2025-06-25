@@ -4,7 +4,7 @@ This project uses SQL (MySQL) to analyze patient appointment behavior in a ficti
 
 ## 📁 Files
 - `queries.sql`: Core analytical SQL queries
-- `patients.csv`, `appointments.csv`, `doctors.csv`: Source data files (CSV format)
+- `patients.csv`, `appointments.csv`: Source data files (CSV format)
 
 ## 🔍 Analysis Highlights
 - No-show rates by department
